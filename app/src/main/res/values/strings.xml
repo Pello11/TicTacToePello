@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TicTacToePello</string>
+    <string name="player">%1$s</string>
+    <string name="winner">%1$s WINS!!</string>
+    <string name="draw">DRAW!!</string>
+</resources>
